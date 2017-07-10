@@ -2,7 +2,7 @@ CREATE OR REPLACE PACKAGE APPS.XX_AM_INFORME_REINTEGRO_FC_PK AUTHID CURRENT_USER
 /*=========================================================================+
 |                                                                          |
 | FILENAME                                                                 |
-|    XX_AM_INFORME_REINTEGRO_FCS_PK.sql                                    |
+|    XX_AM_INFORME_REINTEGRO_FCS_PK.sql                                   |
 |                                                                          |
 | DESCRIPTION                                                              |
 |    Crea el paquete XX_AM_INFORME_REINTEGRO_FCS_PK                        |
